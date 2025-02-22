@@ -1,0 +1,6 @@
+paho-mqtt
+pyinstaller
+PySide6
+zeroconf
+numpy
+matplotlib
